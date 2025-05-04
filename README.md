@@ -81,7 +81,7 @@ Healthcare_Analytics_Project/
 - Add CDC (change data capture) logic
 - Optimize query execution with indexes
 - Include dashboards with Power BI visuals
-- Dev branch: optimized queries for performance
+- Dev branch push: optimized queries for performance
 
 ---
 
